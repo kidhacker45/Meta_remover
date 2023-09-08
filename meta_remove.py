@@ -1,3 +1,10 @@
+print(" _  _ ___ ____  _   _    _    ____ _  _______ ____   ")
+print("| |/ /_ _|  _ \| | | |  / \  / ___| |/ / ____|  _ \  ")
+print("| ' / | || | | | |_| | / _ \| |   | ' /|  _| | |_) | ")
+print("| . \ | || |_| |  _  |/ ___ \ |___| . \| |___|  _ <  ")
+print("|_|\_\___|____/|_| |_/_/   \_\____|_|\_\_____|_| \_\ ")
+                                                                   
+
 from PIL import Image
 image_path = str(input('[+] Enter Image path: '))
 image = Image.open(image_path)
